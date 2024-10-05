@@ -1,16 +1,13 @@
-## Hi there 👋
+###自我介绍
 
-<!--
-**nonne66/nonne66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 昵称
+nonne66
 
-Here are some ideas to get you started:
+## 爱好
+- **编程**: 喜欢挑战不同的算法与数据结构，参与编程比赛。
+- **阅读**: 热爱阅读科技和心理学类书籍，拓宽视野。
+- **运动**: 喜欢打篮球和游泳，保持身体健康。
+- **旅行**: 喜欢探索新的地方，体验不同的文化
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##掌握技能
+c++
